@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "170368157920",
+    "project_id": "netflux-app",
+    "storage_bucket": "netflux-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170368157920:android:a62cdbdfbb762a317ba885",
+        "android_client_info": {
+          "package_name": "com.flutterflow.netflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170368157920-ovpsaft6m660rso34gp3olsbnjc4nm1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.netflix",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "170368157920-v6ooombcu3r3hiovqc48m25fte5s8lvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwmA_3a0tBZpnRBrqfzCQufYj0VYuYBDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170368157920-v6ooombcu3r3hiovqc48m25fte5s8lvn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "170368157920-e059uu2mqmvvbaah2ap922kkiofmo61q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.netflix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

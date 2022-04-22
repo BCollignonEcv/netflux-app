@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>170368157920-e059uu2mqmvvbaah2ap922kkiofmo61q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.170368157920-e059uu2mqmvvbaah2ap922kkiofmo61q</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>170368157920-ovpsaft6m660rso34gp3olsbnjc4nm1g.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCcIdcIGNnq5QiNVcz3gqtEI_kVd_9r7ZU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>170368157920</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.netflix</string>
+	<key>PROJECT_ID</key>
+	<string>netflux-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>netflux-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:170368157920:ios:698333edbf290ae67ba885</string>
+</dict>
+</plist>
