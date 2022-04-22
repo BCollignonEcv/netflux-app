@@ -132,10 +132,10 @@ class _NavBarPageState extends State<NavBarPage> {
           ),
           BottomNavigationBarItem(
             icon: Icon(
-              Icons.search,
+              Icons.search_sharp,
               size: 24,
             ),
-            label: 'Home',
+            label: 'Search',
             tooltip: '',
           )
         ],
