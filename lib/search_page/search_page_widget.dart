@@ -249,7 +249,7 @@ class _SearchPageWidgetState extends State<SearchPageWidget> {
                   mainAxisSize: MainAxisSize.max,
                   children: [
                     Text(
-                      'Welcome',
+                      'Your search',
                       style: FlutterFlowTheme.of(context).title3,
                     ),
                   ],
@@ -331,7 +331,7 @@ class _SearchPageWidgetState extends State<SearchPageWidget> {
                                           child: Image.network(
                                             getJsonField(
                                               searchedShowsItem,
-                                              r'''$.image.medium''',
+                                              r'''$.show.image.medium''',
                                             ),
                                             width: 140,
                                             height: 197,
